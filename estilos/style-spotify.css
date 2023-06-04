@@ -1,0 +1,28 @@
+.recuadro-spotify {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+    margin-top: 20px;
+}
+
+.boton-spotify {
+    position: absolute;
+    margin-top: -170px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 358px;
+    background: #7030CF;
+
+    font-family: 'Bebas Neue', sans-serif;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.205em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border-radius: 15px;
+}
