@@ -1,5 +1,9 @@
 .estilo-body {
     background-image: url(../multimedia/fondos/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+
     
 }
 
