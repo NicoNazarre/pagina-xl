@@ -1,0 +1,342 @@
+
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 77px; /* Ajusta la altura según tus necesidades */
+    margin-top: 30PX;
+}
+
+.seccion-carrusel {
+   
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background: linear-gradient(33.16deg, #4024B1 20.05%, #202E9C 29.7%, #6A31D1 53.19%, #2577C4 71.37%, #4B25C1 93.15%);
+ 
+}
+
+.descripcion-carrusel {
+    font-family: 'Jura', sans-serif;
+
+    font-size: 15px;
+/* font-weight: 5;
+font-size: 3px;
+line-height: 3px; */
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.145em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+/* .graffiti {
+    font-family: 'Jura', sans-serif;
+    
+} */
+
+.descripcion-carrusel {
+    text-align: center;
+}
+
+
+.caja-carrusel {
+    overflow: hidden;
+}
+
+.cards-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 50;
+}
+
+  
+
+.cards__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 21rem;
+    overflow: hidden;
+    list-style: none;
+
+
+}
+
+.box {
+
+    width: 569.3023071289062px;
+    height: 322.1052551269531px;
+    margin: 0 -40px;
+
+}
+
+
+.container-boton-carrusel {
+    display: flex;
+    justify-content: center;
+}
+
+.boton-carrusel {
+    background: #7030CF;
+
+    font-family: 'Bebas Neue', sans-serif;
+    margin-bottom: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.205em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border-radius: 15px;
+
+
+
+  }
+
+.box:nth-child(1) {
+    transform: scale(0.8);
+}
+.box:nth-child(2) {
+    transform: scale(0.9);
+}
+.box:nth-child(3) {
+    transform: scale(0.8);
+}
+ .box:nth-child(4) {
+    transform: scale(0.8);
+    
+}
+
+.box:nth-child(5) {
+    transform: scale(0.8);
+}
+.box:nth-child(6) {
+    transform: scale(0.8);
+}
+
+
+
+
+
+
+/* ACHICA EL MARGEN ENTRE LAS IMAGENES */
+/*
+.box:nth-child(2) {
+left: 5%;
+}
+
+.box:nth-child(4) {
+  left: -5%;
+} 
+
+ .box:nth-child(4n + 1) {
+    transform: scale(0.75);
+    z-index: -2;
+}
+
+.box:nth-child(1) {
+  left: 15%;
+}
+
+.box:nth-child(5) {
+  left: -15%;
+} */
+/*
+.card__text-content {
+    text-align: center;
+    width: 75%;
+}
+
+.card__title {
+    padding: 1rem;
+}
+ */
+.box--hide {
+    display: none;
+
+}
+
+
+/* .move-out-from-left {
+    animation: moveOutLeft 0.5s ease-in-out;
+} */
+
+/* .move-out-from-right {
+    animation: moveOutRight 0.5s ease-in-out;
+} */
+
+/* .move-to-position5-from-left {
+    animation: moveToP5Left 0.5s ease-in-out;
+} */
+
+/* .move-to-position4-from-left {
+    animation: moveToP4Left 0.5s ease-in-out;
+} */
+
+/* .move-to-position3-from-left {
+    animation: moveToP3Left 0.5s ease-in-out;
+} */
+
+
+/* .move-to-position5-from-right{
+    animation: moveToP5Right 0.5s ease-in-out;
+} */
+/* .move-to-position4-from-right{
+    animation: moveToP4Right 0.5s ease-in-out;
+} */
+/* .move-to-position3-from-right{
+    animation: moveToP3Right 0.5s ease-in-out;
+} */
+/* .move-to-position2-from-right{
+    animation: moveToP2Right 0.5s ease-in-out;
+} */
+/* .move-to-position1-from-right{
+    animation: moveToP1Right 0.5s ease-in-out;
+} */
+
+
+/*  @keyframes moveOutRight {
+    0% {
+        transform: scale(0.75) translateX(0%);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(0.5) translateX(150%);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(0.25) translateX(0%);
+        opacity: 0;
+    }
+}  */
+
+
+
+
+/* @keyframes moveToP5Left {
+    from {
+        transform: scale(0.75) translateX(100%);
+    }
+    to {
+        transform: scale(0.75) translateX(0);
+    }
+} */
+
+/* @keyframes moveToP4Left {
+    from {
+        transform: scale(0.75) translateX(100%);
+    }
+    to {
+        transform: scale(0.85) translateX(0);
+    }
+} */
+.move-to-position1-from-left {
+    animation: moveToP2Left 0.5s ease-in-out;
+}
+
+
+.move-to-position2-from-left{
+    animation: moveToP1Left 0.5s ease-in-out;
+}
+.move-to-position3-from-left{
+    animation: moveToP1Left 0.5s ease-in-out;
+}
+@keyframes moveOutLeft {
+    0% {
+        transform: scale(0.75) translateX(0%);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(0.5) translateX(-150%);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(0.25) translateX(0%);
+        opacity: 0;
+    }
+}
+
+@keyframes moveToP1Left {
+    from {
+        transform: scale(0.85) translateX(100%);
+    }
+    to {
+        transform: scale(0.75) translateX(0);
+    }
+}
+
+@keyframes moveToP2Left {
+    from {
+        transform: scale(1) translateX(100%);
+    }
+    to {
+        transform: scale(0.85) translateX(0);
+    }
+}
+
+@keyframes moveToP3Left {
+    from {
+        transform: scale(0.85) translateX(100%);
+    }
+    to {
+        transform: scale(1) translateX(0);
+    }
+}
+
+@keyframes moveToP1Right {
+    from {
+        transform: scale(0.75) translateX(-100%);
+    }
+    to {
+        transform: scale(0.75) translateX(0);
+    }
+}
+
+@keyframes moveToP2Right {
+    from {
+        transform: scale(0.85) translateX(-100%);
+    }
+    to {
+        transform: scale(0.85) translateX(0);
+    }
+}
+
+@keyframes moveToP3Right {
+    from {
+        transform: scale(1) translateX(-100%);
+    }
+    to {
+        transform: scale(1) translateX(0);
+    }
+}
+
+@keyframes moveToP4Right {
+    from {
+        transform: scale(1.15) translateX(-100%);
+    }
+    to {
+        transform: scale(1.15) translateX(0);
+    }
+}
+
+@keyframes moveToP5Right {
+    from {
+        transform: scale(1.3) translateX(-100%);
+    }
+    to {
+        transform: scale(1.3) translateX(0);
+    }
+}
+
+
+
+

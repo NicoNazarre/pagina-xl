@@ -1,0 +1,14 @@
+.estilo-body {
+    background-image: url(../multimedia/fondos/bg.jpg);
+    
+}
+
+.btn-wsp {
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    text-align: center;
+}
