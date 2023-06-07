@@ -40,3 +40,47 @@
   }
   
 } 
+
+@media screen and (max-width: 729x) {
+    .spotify-png {
+        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner550x136.png');
+        margin-left: 14px;
+     }
+     .icono-footer {
+ 
+        right: 383px;
+
+}
+}
+
+
+
+@media screen and (max-width: 841px) {
+    .spotify-png {
+        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner650x161.png');
+  
+     }
+     .icono-footer {
+ 
+        right: 230px;
+
+}
+.cards__container {
+    padding-left: 0px;
+}
+}
+
+@media screen and (max-width: 983px) {
+    .icono-footer {
+ 
+        right: 207px;
+
+}
+}
+
+@media screen and (max-width: 1041px) {
+    .spotify-png {
+        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner750x186.png');
+  
+
+}
