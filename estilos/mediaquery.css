@@ -1,5 +1,5 @@
 @media screen and (max-width: 415px) {
-/*     .logo-xl-grande {
+    .logo-xl-grande {
         margin-left: 248px;
     }
     .seccion-carrusel {
@@ -10,20 +10,20 @@
     }
     .box {
         margin: 0 -10px;
-    } */
+    }
     .spotify-png {
         content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner550x136.png');
         margin-left: 235px;
-/*     }
+     }
     .boton-spotify {
         margin-top: -128px;
         margin-left: 179px;
- */
+
     }
 
 
-/*     CAMBIOS EN EL FOOTER */
-/* .container__footer {
+     CAMBIOS EN EL FOOTER */
+     .container__footer {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -38,5 +38,5 @@
   .iconos-redes a {
     margin: 5px;
   }
-  */
+  
 } 
