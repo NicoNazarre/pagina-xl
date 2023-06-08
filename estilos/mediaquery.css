@@ -1,4 +1,4 @@
-@media screen and (max-width: 415px) {
+/* @media screen and (max-width: 415px) {
     .logo-xl-grande {
         margin-left: 248px;
     }
@@ -22,7 +22,7 @@
     }
 
 
-     CAMBIOS EN EL FOOTER */
+     CAMBIOS EN EL FOOTER
      .container__footer {
     display: flex;
     flex-direction: column;
@@ -40,6 +40,7 @@
   }
   
 } 
+
 
 @media screen and (max-width: 729x) {
     .spotify-png {
@@ -78,9 +79,10 @@
 }
 }
 
-@media screen and (max-width: 1041px) {
+@media screen and (max-width: 1160px) {
     .spotify-png {
         content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner750x186.png');
   
 
 }
+}  */
