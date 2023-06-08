@@ -86,3 +86,109 @@
 
 }
 }  */
+
+@media screen and (min-width: 480px) {
+    .boton-spotify {
+        margin-left: 196px;
+    }
+}
+
+@media screen and (min-width: 580px) {
+    .spotify-png {
+        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner-370.png');
+}
+    .boton-spotify {
+        margin-top: -111px;
+}
+
+}
+
+@media screen and (min-width: 766px) {
+    .boton-spotify {
+        margin-top: -111px;
+        margin-left: 296px;
+}
+}
+
+@media screen and (min-width: 880px) {
+    .logo-xl-grande-png {
+        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/logo_medio700x.png');
+    }
+    
+    .spotify-png {
+        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner650x161.png');
+}
+    .boton-spotify {
+        margin-top: -136px;
+        margin-left: 195px;
+        padding-right: 35px;
+        padding-left: 35px;
+        font-weight: 400;
+        font-size: 9px;
+        line-height: 19px;
+
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .boton-spotify {
+        margin-top: -136px;
+        margin-left: 328px;
+        padding-right: 35px;
+        padding-left: 35px;
+        margin-bottom: 48px;
+        font-style: normal;
+        padding-right: 30px;
+        padding-left: 30px;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 27px;
+        text-align: center;
+        letter-spacing: 0.205em;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        mix-blend-mode: normal;
+        box-shadow: 10px 9px 16px rgba(0, 0, 0, 0.25);
+        border-radius: 60px;
+    }
+    .logo-fiesta-de-otro-planeta {
+        content: url('../multimedia/Logos/fiesta\ de\ otro\ planeta\ \(3\)\ 490.png');
+    }
+}
+
+@media screen and (min-width: 1080px) {
+    .spotify-png {
+        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner750x186.png');
+}
+.boton-spotify {
+    margin-top: -148px;
+    margin-left: 288px;
+}
+}
+
+@media screen and (min-width: 1198px) {
+    .boton-spotify {
+        margin-top: -149px;
+        margin-left: 382px;
+    }
+}
+
+@media screen and (min-width: 1380px) {
+    .spotify-png {
+        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner1152x285.png');
+}
+.boton-spotify {
+    margin-top: -181px;
+    margin-left: 268px;
+    font-size: 16px;
+    line-height: 45px;
+}
+}
+
+@media screen and (min-width: 1398px) {
+    .boton-spotify {
+        margin-top: -181px;
+        margin-left: 368px;
+
+    }
+}
