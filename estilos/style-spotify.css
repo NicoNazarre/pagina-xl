@@ -1,48 +1,13 @@
-.recuadro-spotify {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 80px;
-    margin-top: 20px;
-}
-
-/* .boton-spotify {
-    position: absolute;
-    margin-top: -170px;
-    margin-bottom: 10px;
-    margin-right: 10px;
-    margin-left: 358px;
-    background: #7030CF;
-
-    font-family: 'Bebas Neue', sans-serif;
-
-    font-style: normal;
-    font-weight: 400;
-    font-size: 11px;
-    line-height: 19px;
-    text-align: center;
-    letter-spacing: 0.205em;
-    text-transform: uppercase;
-    color: #FFFFFF;
-    border-radius: 15px;
-} */
-
 .boton-spotify {
     background: #7030CF;
-    position: absolute;
-    margin-top: -107px;
-/*     margin-bottom: 10px; */
-    margin-right: 10px;
-    margin-left: 149px;
-
     font-family: 'Bebas Neue', sans-serif;
-/*      margin-bottom: 10px; */
+    margin-bottom: 48px;
     font-style: normal;
-    padding-right: 10px;
-    padding-left: 10px;
-    font-weight: 200;
-    font-size: 6px;
-    line-height: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 45px;
     text-align: center;
     letter-spacing: 0.205em;
     text-transform: uppercase;
@@ -50,7 +15,26 @@
     mix-blend-mode: normal;
     box-shadow: 10px 9px 16px rgba(0, 0, 0, 0.25);
     border-radius: 60px;
-
-
-
   }
+
+.seccion-spotify {
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+
+.recuadro-spotify {
+    position: relative;
+}
+
+.container-boton-spotify {
+    position: absolute;
+    top: 77%;
+    bottom: 20%;
+    right: 0%;
+    left: 19%;
+}
+
+

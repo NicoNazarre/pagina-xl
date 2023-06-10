@@ -1,194 +1,46 @@
-/* @media screen and (max-width: 415px) {
-    .logo-xl-grande {
-        margin-left: 248px;
+
+@media screen and (min-width: 460px) {
+    .container-boton-spotify {
+
+        left: 22%;
     }
-    .seccion-carrusel {
-        margin-left: -34px;
-        margin-right: -261px;
-        padding-left: -31px;
-        padding-right: 28px;
+}
+@media screen and (min-width: 500px) {
+    .container-boton-spotify {
+
+        left: 25%;
     }
-    .box {
-        margin: 0 -10px;
+}
+@media screen and (min-width: 630px) {
+    .container-boton-spotify {
+
+        left: 30%;
     }
+}
+@media screen and (min-width: 718px) {
+    .container-boton-spotify {
+
+        left: 33%;
+    }
+}
+@media screen and (min-width: 850px) {
+    .container-boton-spotify {
+
+        left: 37%;
+    }
+}
+
+@media screen and (min-width: 850px) {
     .spotify-png {
-        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner550x136.png');
-        margin-left: 235px;
-     }
-    .boton-spotify {
-        margin-top: -128px;
-        margin-left: 179px;
-
-    }
-
-
-     CAMBIOS EN EL FOOTER
-     .container__footer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .iconos-redes {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-  
-  .iconos-redes a {
-    margin: 5px;
-  }
-  
-} 
-
-
-@media screen and (max-width: 729x) {
-    .spotify-png {
-        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner550x136.png');
-        margin-left: 14px;
-     }
-     .icono-footer {
- 
-        right: 383px;
-
+        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner.png');
+}
+.container-boton-spotify {
+    top: 64%;
+    bottom: 20%;
+    left: 25%;
+}
+.logo-fiesta-de-otro-planeta {
+    content: url('../multimedia/Logos/fiesta\ de\ otro\ planeta\ \(3\)\ 490.png');
 }
 }
 
-
-
-@media screen and (max-width: 841px) {
-    .spotify-png {
-        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner650x161.png');
-  
-     }
-     .icono-footer {
- 
-        right: 230px;
-
-}
-.cards__container {
-    padding-left: 0px;
-}
-}
-
-@media screen and (max-width: 983px) {
-    .icono-footer {
- 
-        right: 207px;
-
-}
-}
-
-@media screen and (max-width: 1160px) {
-    .spotify-png {
-        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner750x186.png');
-  
-
-}
-}  */
-
-@media screen and (min-width: 480px) {
-    .boton-spotify {
-        margin-left: 196px;
-    }
-}
-
-@media screen and (min-width: 580px) {
-    .spotify-png {
-        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner-370.png');
-}
-    .boton-spotify {
-        margin-top: -111px;
-}
-
-}
-
-@media screen and (min-width: 766px) {
-    .boton-spotify {
-        margin-top: -111px;
-        margin-left: 296px;
-}
-}
-
-@media screen and (min-width: 880px) {
-    .logo-xl-grande-png {
-        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/logo_medio700x.png');
-    }
-    
-    .spotify-png {
-        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner650x161.png');
-}
-    .boton-spotify {
-        margin-top: -136px;
-        margin-left: 195px;
-        padding-right: 35px;
-        padding-left: 35px;
-        font-weight: 400;
-        font-size: 9px;
-        line-height: 19px;
-
-    }
-}
-
-@media screen and (min-width: 992px) {
-    .boton-spotify {
-        margin-top: -136px;
-        margin-left: 328px;
-        padding-right: 35px;
-        padding-left: 35px;
-        margin-bottom: 48px;
-        font-style: normal;
-        padding-right: 30px;
-        padding-left: 30px;
-        font-weight: 400;
-        font-size: 11px;
-        line-height: 27px;
-        text-align: center;
-        letter-spacing: 0.205em;
-        text-transform: uppercase;
-        color: #FFFFFF;
-        mix-blend-mode: normal;
-        box-shadow: 10px 9px 16px rgba(0, 0, 0, 0.25);
-        border-radius: 60px;
-    }
-    .logo-fiesta-de-otro-planeta {
-        content: url('../multimedia/Logos/fiesta\ de\ otro\ planeta\ \(3\)\ 490.png');
-    }
-}
-
-@media screen and (min-width: 1080px) {
-    .spotify-png {
-        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner750x186.png');
-}
-.boton-spotify {
-    margin-top: -148px;
-    margin-left: 288px;
-}
-}
-
-@media screen and (min-width: 1198px) {
-    .boton-spotify {
-        margin-top: -149px;
-        margin-left: 382px;
-    }
-}
-
-@media screen and (min-width: 1380px) {
-    .spotify-png {
-        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner1152x285.png');
-}
-.boton-spotify {
-    margin-top: -181px;
-    margin-left: 268px;
-    font-size: 16px;
-    line-height: 45px;
-}
-}
-
-@media screen and (min-width: 1398px) {
-    .boton-spotify {
-        margin-top: -181px;
-        margin-left: 368px;
-
-    }
-}

@@ -1,6 +1,5 @@
 .footer {
     background: linear-gradient(180deg, rgba(15, 11, 60, 0.23) 0%, rgba(16, 15, 31, 0.88) 86.05%);
-/* mix-blend-mode: multiply; */
 }
 
 
@@ -12,15 +11,11 @@ max-width: 1337px;
 }
 
 .nota-footer {
-
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 16px;
-    
-    /* Grey Scale/100 */
-    
     color: #FFFFFF;
     z-index: 100;
 }
@@ -30,13 +25,9 @@ max-width: 1337px;
     margin-right: 20px;
 }
 
-.icono-footer {
-    
-    position: absolute;
-    
+.icono-footer {    
+    position: absolute;    
     right: 342px;
     bottom: -63px;
-   
-
 }
 

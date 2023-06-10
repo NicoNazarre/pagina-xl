@@ -1,5 +1,3 @@
-
-
 .logo-container {
     display: flex;
     justify-content: center;
@@ -8,37 +6,23 @@
     margin-top: 30PX;
 }
 
-.seccion-carrusel {
-   
+.seccion-carrusel {   
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 12.5%;
     margin-right: 12.5%;
     background: linear-gradient(33.16deg, #4024B1 20.05%, #202E9C 29.7%, #6A31D1 53.19%, #2577C4 71.37%, #4B25C1 93.15%);
- 
-}
+ }
 
 .descripcion-carrusel {
     font-family: 'Jura', sans-serif;
-
     font-size: 15px;
-/* font-weight: 5;
-font-size: 3px;
-line-height: 3px; */
-/* identical to box height */
-
-text-align: center;
-letter-spacing: 0.145em;
-text-transform: uppercase;
-
-color: #FFFFFF;
+    text-align: center;
+    letter-spacing: 0.145em;
+    text-transform: uppercase;
+    color: #FFFFFF;
 
 }
-
-/* .graffiti {
-    font-family: 'Jura', sans-serif;
-    
-} */
 
 .descripcion-carrusel {
     text-align: center;
@@ -65,12 +49,9 @@ color: #FFFFFF;
     height: 21rem;
     overflow: hidden;
     list-style: none;
-
-
 }
 
 .box {
-
     width: 569.3023071289062px;
     height: 322.1052551269531px;
     margin: 0 -40px;
@@ -81,22 +62,14 @@ color: #FFFFFF;
 .container-boton-carrusel {
     display: flex;
     justify-content: center;
-/*     display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-padding: 16px 61px;
-gap: 10px;
-
-width: 201px;
-height: 50px; */
 }
 
 .boton-carrusel {
+
     background: #7030CF;
 
     font-family: 'Bebas Neue', sans-serif;
-     margin-bottom: 48px;
+    margin-bottom: 48px;
     font-style: normal;
     padding-right: 30px;
     padding-left: 30px;
@@ -110,31 +83,32 @@ height: 50px; */
     mix-blend-mode: normal;
     box-shadow: 10px 9px 16px rgba(0, 0, 0, 0.25);
     border-radius: 60px;
-
-
-
   }
 
 .box:nth-child(1) {
     transform: scale(0.8);
 }
+
 .box:nth-child(2) {
     transform: scale(0.9);
 }
+
 .box:nth-child(3) {
     transform: scale(0.8);
 }
+
  .box:nth-child(4) {
-    transform: scale(0.8);
-    
+    transform: scale(0.8);    
 }
 
 .box:nth-child(5) {
     transform: scale(0.8);
 }
+
 .box:nth-child(6) {
     transform: scale(0.8);
 }
+
 .box:nth-child(7) {
     transform: scale(0.8);
 }
@@ -143,7 +117,6 @@ height: 50px; */
 
 .box--hide {
     display: none;
-
 }
 
 /* 
