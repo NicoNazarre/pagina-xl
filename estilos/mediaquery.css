@@ -1,8 +1,23 @@
 
-@media screen and (min-width: 460px) {
+@media screen and (min-width: 360px) {
     .container-boton-spotify {
 
+        left: 15%;
+    }
+}
+@media screen and (min-width: 408px) {
+    .container-boton-spotify {
+
+        left: 20%;
+    }
+}
+@media screen and (min-width: 460px) {
+    .container-boton-spotify {
+        top: 77%;
         left: 22%;
+    }
+    .logo-fiesta-de-otro-planeta {
+        content: url('../multimedia/Logos/fiesta\ de\ otro\ planeta\ \(3\)\ 270.png');
     }
 }
 @media screen and (min-width: 500px) {
@@ -32,15 +47,20 @@
 
 @media screen and (min-width: 850px) {
     .spotify-png {
-        content: url('../multimedia/banner y txt-20230604T164701Z-001/banner\ y\ txt/banner.png');
-}
-.container-boton-spotify {
+        content: url('../multimedia/banner-y-txt/banner.png');
+    }
+    .container-boton-spotify {
     top: 64%;
     bottom: 20%;
     left: 25%;
-}
-.logo-fiesta-de-otro-planeta {
+    }
+    .logo-fiesta-de-otro-planeta {
     content: url('../multimedia/Logos/fiesta\ de\ otro\ planeta\ \(3\)\ 490.png');
+    }
+    .logo-xl-grande-png {
+        content: url('../multimedia/banner-y-txt/logo_medio700x.png');
+    }
 }
-}
+
+
 
