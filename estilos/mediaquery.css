@@ -19,6 +19,11 @@
     }
 }
 @media screen and (min-width: 408px) {
+    .iconos-redes a{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    
     .container-boton-spotify {
 
         left: 20%;

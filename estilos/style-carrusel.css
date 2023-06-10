@@ -161,17 +161,16 @@
     display: none;
 }
 
-
 .move-to-position1-from-left {
-    animation: moveToP2Left 0.5s ease-in-out;
+    animation: moveToP2Left 0.9s ease-in-out;
 }
 
 
 .move-to-position2-from-left{
-    animation: moveToP1Left 0.5s ease-in-out;
+    animation: moveToP1Left 0.9s ease-in-out;
 }
 .move-to-position3-from-left{
-    animation: moveToP1Left 0.5s ease-in-out;
+    animation: moveToP1Left 0.9s ease-in-out;
 }
 @keyframes moveOutLeft {
     0% {
