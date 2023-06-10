@@ -1,8 +1,21 @@
 
+@media screen and (min-width: 350px) {
+    .box {
+        width: 340px;
+        height: 220px;
+    }
+}
+
 @media screen and (min-width: 360px) {
     .container-boton-spotify {
-
+        
         left: 15%;
+    }
+}
+@media screen and (min-width: 367px) {
+    .box {
+        width: 335px;
+        height: 200px;
     }
 }
 @media screen and (min-width: 408px) {
@@ -38,16 +51,35 @@
         left: 33%;
     }
 }
-@media screen and (min-width: 850px) {
-    .container-boton-spotify {
 
-        left: 37%;
+@media screen and (min-width: 850px) {
+    .box {
+        width: 569.3023071289062px;
+        height: 322.1052551269531px;
     }
-}
-
-@media screen and (min-width: 850px) {
+    .foto-carrusel-1 {
+        content: url('../multimedia/img_carrusel/img_01.jpg');
+    }
+    .foto-carrusel-2 {
+        content: url('../multimedia/img_carrusel/img_02.jpg');
+    }
+    .foto-carrusel-3 {
+        content: url('../multimedia/img_carrusel/img_03.jpg');
+    }
+    .foto-carrusel-4 {
+        content: url('../multimedia/img_carrusel/img_04.jpg');
+    }
+    .foto-carrusel-5 {
+        content: url('../multimedia/img_carrusel/img_05.jpg');
+    }
+    .foto-carrusel-6 {
+        content: url('../multimedia/img_carrusel/img_06.jpg');
+    }
+    .foto-carrusel-7 {
+        content: url('../multimedia/img_carrusel/img_07.jpg');
+    }
     .spotify-png {
-        content: url('../multimedia/banner-y-txt/banner.png');
+        content: url('../multimedia/banner-y-txt/banner1152x285.png');
     }
     .container-boton-spotify {
     top: 64%;
@@ -60,7 +92,30 @@
     .logo-xl-grande-png {
         content: url('../multimedia/banner-y-txt/logo_medio700x.png');
     }
+
 }
+
+@media screen and (min-width: 1580px) {
+    .container-boton-spotify {
+        left: 24%;
+        }
+}
+@media screen and (min-width: 1650px) {
+    .container-boton-spotify {
+        left: 23%;
+        }
+}
+@media screen and (min-width: 1710px) {
+    .container-boton-spotify {
+        left: 22%;
+        }
+}
+@media screen and (min-width: 1870px) {
+    .container-boton-spotify {
+        left: 20%;
+        }
+}
+
 
 
 

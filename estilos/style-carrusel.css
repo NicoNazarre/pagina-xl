@@ -52,10 +52,13 @@
 }
 
 .box {
-    width: 569.3023071289062px;
-    height: 322.1052551269531px;
+    width: 360px;
+    height: 220px;
+/*     width: 569.3023071289062px;
+    height: 322.1052551269531px; */
 
     margin: 0 -40px;
+
     transition: transform 0.5s;
 }
 
