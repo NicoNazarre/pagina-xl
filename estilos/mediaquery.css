@@ -92,7 +92,29 @@
     .logo-xl-grande-png {
         content: url('../multimedia/banner-y-txt/logo_medio700x.png');
     }
+    .logo-footer {
+        content: url('../multimedia/Logos/XL_logo_alien140x85.png');
+        margin-right: -174px;
+    }
 
+}
+
+@media screen and (min-width: 956px) {
+    .logo-footer {
+        margin-right: -123px;
+    }
+}
+
+@media screen and (min-width: 1100px) {
+    .logo-footer {
+        margin-right: -70px;
+    }
+}
+
+@media screen and (min-width: 1275px) {
+    .logo-footer {
+        margin-right: 0px;
+    }
 }
 
 @media screen and (min-width: 1580px) {
