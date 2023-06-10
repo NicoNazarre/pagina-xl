@@ -23,33 +23,9 @@
 
 
 
-/* function shiftRight() {
-    const boxes = document.querySelectorAll(".box");
-    boxes[2].className = "box move-out-from-right";
-    setTimeout(function() {
-        const noOfCards = boxes.length;
-        if (noOfCards > 3) {
-            for (let i = 3; i < boxes.length; i++) {
-                boxes[i].classList.add("box--hide");
-            }
-        }
+  
 
-        const tmpNode = boxes[noOfCards - 1];
-        tmpNode.classList.remove("box--hide");
-        boxes[noOfCards - 1].remove();
-        let parentObj = document.querySelector(".cards__container");
-        parentObj.insertBefore(tmpNode, parentObj.firstChild);
-        tmpNode.className = "box move-to-position1-from-right";
-        boxes[0].className = "box move-to-position2-from-right";
-        boxes[1].className = "box move-to-position3-from-right";
-    }, 500);
-} */
-
-
-
-
-
-setInterval(shiftLeft, 1400); // Cambia "el número" por el tiempo en milisegundos que deseas entre diapositivas
+setInterval(shiftLeft, 1680); // (FIGMA 1400)Cambia "el número" por el tiempo en milisegundos que deseas entre diapositivas
 
 
 
