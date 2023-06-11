@@ -1,13 +1,14 @@
 .footer {
     background: linear-gradient(180deg, rgba(15, 11, 60, 0.23) 0%, rgba(16, 15, 31, 0.88) 86.05%);
+width: 100%;
 }
 
 
 .container__footer {
 display: flex;
-flex-wrap: wrap;
-justify-content: space-around;
-max-width: 1337px;
+flex-direction: column;
+align-items: center;
+
 }
 
 .nota-footer {
@@ -26,8 +27,7 @@ max-width: 1337px;
 }
 
 .icono-footer {    
-    position: absolute;    
-    right: 342px;
-    bottom: -63px;
-}
+margin-top: 10px;
+margin-bottom: 26px;
+} 
 
