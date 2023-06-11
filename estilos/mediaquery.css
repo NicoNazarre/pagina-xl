@@ -122,6 +122,17 @@
     }
 }
 
+@media screen and (min-width: 1275px) {
+    .logo-footer {
+        margin-right: -40px;
+    }
+}
+
+@media screen and (min-width: 1520px) {
+    .spotify-png {
+        content: url('../multimedia/banner-y-txt/banner1871.png');
+    }
+}
 @media screen and (min-width: 1580px) {
     .container-boton-spotify {
         left: 24%;
@@ -137,11 +148,7 @@
         left: 22%;
         }
 }
-@media screen and (min-width: 1870px) {
-    .container-boton-spotify {
-        left: 20%;
-        }
-}
+
 
 
 
