@@ -1,14 +1,18 @@
 .footer {
     background: linear-gradient(180deg, rgba(15, 11, 60, 0.23) 0%, rgba(16, 15, 31, 0.88) 86.05%);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1337px;
 }
 
 
-.container__footer {
+/* .container__footer {
 display: flex;
 flex-wrap: wrap;
 justify-content: space-around;
 max-width: 1337px;
-}
+} */
 
 .nota-footer {
     font-family: 'Open Sans';
@@ -25,9 +29,10 @@ max-width: 1337px;
     margin-right: 10px;
 }
 
-.icono-footer {    
-    position: absolute;    
+ .icono-footer {    
+    margin-bottom: 20px;
+ /*    position: absolute;    
     right: 342px;
-    bottom: -63px;
-}
+    bottom: -63px; */
+} 
 
