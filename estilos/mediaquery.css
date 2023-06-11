@@ -20,6 +20,7 @@
 }
 @media screen and (min-width: 408px) {
     .iconos-redes a{
+
         margin-left: 20px;
         margin-right: 20px;
     }
@@ -104,7 +105,39 @@
 
 }
 
+@media screen and (min-width: 1300px) {   
 
+    .icono-footer {
+        position: relative;
+        }
+    .logo-footer {
+        position: absolute;
+        top: -24px;
+        bottom: 0px;
+        right: 0px;
+        left: -487px;
+    }
+}
+
+@media screen and (min-width: 1395px) {
+    .logo-footer {
+        position: absolute;
+        top: -24px;
+        bottom: 0px;
+        right: 0px;
+        left: -517px;
+    }
+}
+
+@media screen and (min-width: 1511px) {
+    .logo-footer {
+        position: absolute;
+        top: -24px;
+        bottom: 0px;
+        right: 0px;
+        left: -563px;
+    }
+}
 
 
 
@@ -118,11 +151,20 @@
 @media screen and (min-width: 1580px) {
     .container-boton-spotify {
         left: 24%;
-        }
+    }
+}
+@media screen and (min-width: 1623px) {
+    .logo-footer {
+        position: absolute;
+        top: -24px;
+        bottom: 0px;
+        right: 0px;
+        left: -603px;
+    }
 }
 @media screen and (min-width: 1650px) {
     .container-boton-spotify {
-        left: 23%;
+        left: 25%;
         }
 }
 @media screen and (min-width: 1710px) {
@@ -130,6 +172,34 @@
         left: 22%;
         }
 }
+@media screen and (min-width: 1726px) {
+    .container-boton-spotify {
+        left: 25%;
+        }
+}
+
+@media screen and (min-width: 1807px) {
+    .logo-footer {
+        position: absolute;
+        top: -24px;
+        bottom: 0px;
+        right: 0px;
+        left: -675px;
+    }
+}
+@media screen and (min-width: 2500px) {
+    .logo-footer {
+        position: absolute;
+        top: -24px;
+        bottom: 0px;
+        right: 0px;
+        left: -951px;
+    }
+    .spotify-png {
+        content: url('../multimedia/banner-y-txt/banner.png');
+    }
+    }
+
 
 
 
