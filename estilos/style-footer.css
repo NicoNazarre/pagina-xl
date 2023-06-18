@@ -13,14 +13,16 @@ align-items: center;
 }
 
 .nota-footer {
+    margin-top: 12px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 15px;
     line-height: 16px;
     color: #FFFFFF;
     z-index: 100;
 }
+
 
 .iconos-redes a{
 
@@ -28,10 +30,12 @@ align-items: center;
     margin-right: 10px;
 }
 
+
 .icono-footer {    
-margin-top: 10px;
-margin-bottom: 26px;
+    margin-top: 10px;
+    margin-bottom: 26px;
 } 
+
 
 
 
