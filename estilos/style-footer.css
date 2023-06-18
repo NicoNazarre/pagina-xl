@@ -25,10 +25,14 @@ align-items: center;
     margin-right: 10px;
 }
 
-.icono-footer {    
+.iconos-footer {    
     margin-top: 10px;
     margin-bottom: 26px;
 } 
+
+.iconos-footer {
+    color: #FFFFFF;
+}
 
 .iconos-redes a i:hover {
     color: #1f1a63 !important;
