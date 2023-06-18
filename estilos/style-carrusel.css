@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 77px; /* Ajusta la altura según tus necesidades */
+    height: 77px; 
     margin-top: 30PX;
 }
 
@@ -68,9 +68,7 @@
 .boton-carrusel {
 
     background: #7030CF;
-
     font-family: 'Bebas Neue', sans-serif;
-
     font-style: normal;
     padding-right: 30px;
     padding-left: 30px;
@@ -94,7 +92,6 @@
 }
 
 .box:nth-child(2) img {
-
     border-radius: 10px;
 }
 
@@ -170,13 +167,14 @@
     animation: moveToP2Left 0.9s ease-in-out;
 }
 
-
 .move-to-position2-from-left{
     animation: moveToP1Left 0.9s ease-in-out;
 }
+
 .move-to-position3-from-left{
     animation: moveToP1Left 0.9s ease-in-out;
 }
+
 @keyframes moveOutLeft {
     0% {
         transform: scale(0.75) translateX(0%);
