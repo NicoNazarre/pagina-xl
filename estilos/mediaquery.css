@@ -59,6 +59,11 @@
 }
 
 @media screen and (min-width: 850px) {
+
+    .cards__container {
+        height: 21rem;
+    }
+
     .box {
         width: 569.3023071289062px;
         height: 322.1052551269531px;

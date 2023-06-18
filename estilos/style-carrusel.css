@@ -7,6 +7,8 @@
 }
 
 .seccion-carrusel {   
+    padding-top: 10px;
+    padding-bottom: 44px;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 12.5%;
@@ -45,7 +47,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 21rem;
+    height: 12rem;
     overflow: hidden;
     list-style: none;
 }
@@ -68,7 +70,7 @@
     background: #7030CF;
 
     font-family: 'Bebas Neue', sans-serif;
-    margin-bottom: 48px;
+
     font-style: normal;
     padding-right: 30px;
     padding-left: 30px;
