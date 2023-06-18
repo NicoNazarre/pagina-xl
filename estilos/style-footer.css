@@ -30,6 +30,12 @@ align-items: center;
     margin-bottom: 26px;
 } 
 
+.iconos-redes a i:hover {
+    color: #1f1a63 !important;
+    transition: 0.8s !important;
+    cursor: pointer !important;
+}
+
 
 
 
