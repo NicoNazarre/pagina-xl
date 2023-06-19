@@ -157,6 +157,9 @@
     .container-boton-spotify {
         left: 24%;
     }
+    .box {
+        margin: 0 -20px;
+    }
 }
 @media screen and (min-width: 1623px) {
     .logo-footer {
@@ -176,10 +179,21 @@
     .container-boton-spotify {
         left: 22%;
         }
+        .box {
+            margin: 0 -10px;
+        }
 }
 @media screen and (min-width: 1726px) {
     .container-boton-spotify {
         left: 25%;
+        }
+        .seccion-carrusel {
+            margin-right: 20%;
+            margin-left: 20%;
+        }
+        .seccion-spotify {
+            margin-right: 20%;
+            margin-left: 20%;
         }
 }
 
@@ -190,6 +204,9 @@
         bottom: 0px;
         right: 0px;
         left: -675px;
+    }
+    .box {
+        margin: 0 0px;
     }
 }
 @media screen and (min-width: 2500px) {
