@@ -1,10 +1,10 @@
 
-@media screen and (min-width: 350px) {
-    .box {
-        width: 340px;
-        height: 220px;
-    }
+ @media screen and (min-width: 330px) {
+    .iconos-redes a {
+        margin-left: 10px;
+        margin-right: 10px;
 }
+} 
 
 @media screen and (min-width: 360px) {
     .container-boton-spotify {
@@ -12,12 +12,12 @@
         left: 15%;
     }
 }
-@media screen and (min-width: 367px) {
+/* @media screen and (min-width: 367px) {
     .box {
         width: 335px;
         height: 200px;
     }
-}
+} */
 @media screen and (min-width: 442px) {
     .iconos-redes a{
 
@@ -38,6 +38,10 @@
     .logo-fiesta-de-otro-planeta {
         content: url('../multimedia/Logos/fiesta\ de\ otro\ planeta\ \(3\)\ 270.png');
     }
+    .box {
+ 
+        margin: 0 -23px;
+     }
 }
 @media screen and (min-width: 500px) {
     .container-boton-spotify {

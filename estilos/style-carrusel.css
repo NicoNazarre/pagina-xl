@@ -53,9 +53,9 @@
 }
 
 .box {
-    width: 360px;
+    width: 300px;
     height: 220px;
-    margin: 0 -40px;
+    margin: 0 -1px;
     transition: transform 0.5s;
 }
 
