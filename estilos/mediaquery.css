@@ -224,7 +224,59 @@
     .spotify-png {
         content: url('../multimedia/banner-y-txt/banner.png');
     }
+}
+
+@media screen and (min-width: 2050px) {
+    .box:nth-child(1) {
+        transform: scale(0.9);
+    
     }
+    
+    .box:nth-child(2) {
+        transform: scale(1.1);
+    
+    }
+    
+    .box:nth-child(3) {
+        transform: scale(0.9);
+    
+    }
+    
+     .box:nth-child(4) {
+        transform: scale(0.9);  
+     
+    }
+    
+    .box:nth-child(5) {
+        transform: scale(0.9);
+    
+    }
+    
+    .box:nth-child(6) {
+        transform: scale(0.9);
+    
+    }
+    
+    .box:nth-child(7) {
+        transform: scale(0.9);
+    
+    }
+
+    .box {
+        margin: 0 45px;
+    }
+}
+
+@media screen and (min-width: 2050px) {
+    .seccion-carrusel {
+    margin-right: 28%;
+    margin-left: 28%;
+}
+.seccion-spotify {
+    margin-right: 28%;
+    margin-left: 28%;
+}
+}
 
 
 
