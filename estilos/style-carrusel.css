@@ -88,7 +88,7 @@
   /* PRIMERA IMG DE LA IZQUIERDA */
 .box:nth-child(1) img {
 /*     background: #666666; */
-    filter: grayscale(100%) opacity(30%);
+    filter: grayscale(100%) opacity(25%);
     border-radius: 10px;  
 }
 
@@ -100,32 +100,32 @@
 
 .box:nth-child(3) img {
 /*     background: #666666; */
-    filter: grayscale(100%) opacity(20%);
+    filter: grayscale(100%) opacity(25%);
     border-radius: 10px;  
 }
 
  .box:nth-child(4) img {
 /*     background: #666666; */
-    filter: grayscale(100%) opacity(20%);
+    filter: grayscale(100%) opacity(25%);
     border-radius: 10px;  
 }
 
 .box:nth-child(5) img {
 /*     background: #666666; */
-    filter: grayscale(100%) opacity(20%);
+    filter: grayscale(100%) opacity(25%);
     border-radius: 10px;  
 }
 
 .box:nth-child(6) img {
 /*     background: #666666; */
-    filter: grayscale(100%) opacity(20%);
+    filter: grayscale(100%) opacity(25%);
     border-radius: 10px;  
 }
 
 /* PRIMERA IMG DE LA DERECHA */
 .box:nth-child(7) img {
 /*     background: #666666; */
-    filter: grayscale(100%) opacity(20%);
+    filter: grayscale(100%) opacity(25%);
     border-radius: 10px;  
 }
 .box:nth-child(1) {
