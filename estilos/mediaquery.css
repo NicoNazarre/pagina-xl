@@ -18,6 +18,10 @@
         
         left: 15%;
     }
+    .caja-evento {
+        margin-left: 8.5%;
+        margin-right: 8.5%;
+        }
 }
 @media screen and (min-width: 400px) {
     .container-boton-spotify {
@@ -61,6 +65,10 @@
 
         left: 30%;
     }
+    .caja-evento {
+        margin-left: 10.5%;
+        margin-right: 10.5%;
+        }
 }
 @media screen and (min-width: 718px) {
     .container-boton-spotify {
@@ -68,6 +76,14 @@
         left: 33%;
     }
 }
+
+ @media screen and (min-width: 768px) {
+
+    .caja-evento {
+        margin-left: 0;
+        margin-right: 0;
+        }
+} 
 
 
 
