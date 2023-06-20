@@ -124,8 +124,8 @@
 
 @media screen and (min-width: 1200px) {
     .png-proximos-eventos {
-        padding-right: 192px;
-        padding-left: 192px;
+        padding-right: 239px;
+        padding-left: 239px;
       }
     }
 
@@ -162,10 +162,10 @@
         left: -563px;
     }
    
-    .png-proximos-eventos {
-        padding-right: 225px;
-        padding-left: 225px;
-    }
+        .png-proximos-eventos {
+            padding-right: 320px;
+            padding-left: 320px;
+          }
  
 }
 
@@ -209,8 +209,8 @@
         }
 
             .png-proximos-eventos {
-                padding-right: 254px;
-                padding-left: 254px;
+                padding-right: 357px;
+                padding-left: 357px;
               }
 
 }
