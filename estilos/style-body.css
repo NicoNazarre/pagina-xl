@@ -21,10 +21,7 @@
   margin-right: auto;
 }
 
-.png-proximos-eventos {
-  padding-right: 550px;
-  padding-left: 550px;
-}
+
 
 .estilo-body {
     background-image: url(../multimedia/fondos/bg_1920.jpg);
@@ -49,9 +46,4 @@
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
-  }
-
-.png-proximos-eventos {
-    padding-right: 550px;
-    padding-left: 550px;
   }
