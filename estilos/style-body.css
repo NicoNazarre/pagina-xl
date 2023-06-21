@@ -5,6 +5,7 @@
     max-width: 100%;
 }
 
+
 .menu {
   background-color: #0D0D0D;
 }
@@ -22,6 +23,10 @@
 .navbar-nav a {
   margin-right: 10px;
   margin-left: 10px;
+}
+
+#menu-hamburguesa {
+  color: #FFFFFF !important;
 }
 
 .video-container {
