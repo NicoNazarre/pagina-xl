@@ -9,9 +9,9 @@
 /*     display: inline-block; */
     display: flex;
     overflow: hidden;
-    margin: 10px;
+/*     margin: 10px; */
     min-width: 230px;
-    max-width: 315px;
+/*     max-width: 315px; */
     width: 100%;
     color: #fff;
 /*     text-align: left; */
