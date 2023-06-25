@@ -11,6 +11,9 @@
 
         left: 14%;
 }
+.snip1577 figcaption {
+    padding: 8px 93px;
+  }
 }
 
 @media screen and (min-width: 360px) {
@@ -28,6 +31,9 @@
 
         left: 19%;
 }
+.snip1577 figcaption {
+    padding: 8px 113px;
+  }
 }
 @media screen and (min-width: 442px) {
     .iconos-redes a{
@@ -40,6 +46,9 @@
 
         left: 20%;
     }
+    .snip1577 figcaption {
+        padding: 8px 132px;
+      }
 }
 @media screen and (min-width: 460px) {
     .container-boton-spotify {
@@ -59,6 +68,19 @@
 
         left: 25%;
     }
+    .snip1577 figcaption {
+        padding: 8px 151px;
+      }
+}
+@media screen and (min-width: 543px) {
+    .snip1577 figcaption {
+        padding: 8px 175px;
+      }
+}
+@media screen and (min-width: 599px) {
+    .snip1577 figcaption {
+        padding: 8px 194px;
+      }
 }
 @media screen and (min-width: 630px) {
     .container-boton-spotify {
@@ -70,11 +92,19 @@
         margin-right: 10.5%;
         }
 }
+@media screen and (min-width: 676px) {
+    .snip1577 figcaption {
+        padding: 22px 213px;
+      }
+}
 @media screen and (min-width: 718px) {
     .container-boton-spotify {
 
         left: 33%;
     }
+    .snip1577 figcaption {
+        padding: 22px 230px;
+      }
 }
 
  @media screen and (min-width: 768px) {
