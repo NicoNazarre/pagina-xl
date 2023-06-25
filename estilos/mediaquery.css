@@ -69,7 +69,7 @@
         left: 25%;
     }
     .snip1577 figcaption {
-        padding: 4% 36%;
+        padding: 4% 37%;
       }
 }
 /* @media screen and (min-width: 543px) {
@@ -114,8 +114,8 @@
         margin-right: 0;
         }
         .snip1577 figcaption {
-            left: -34px;
-            right: -34px;
+            left: -23px;
+            right: -23px;
           }
 } 
 
@@ -185,13 +185,12 @@
     right: -26px;
   }
 }
-/* @media screen and (min-width: 1130px) {
-.snip1577 figcaption {
-    padding: 17px 155px;
-    left: 0px;
-    right: 0px;
-  }
-} */
+@media screen and (min-width: 1050px) {
+    .snip1577 figcaption {
+        left: -12px;
+        right: -12px;
+      }
+}
 
 @media screen and (min-width: 1200px) {
     .png-proximos-eventos {
@@ -223,8 +222,8 @@
         left: -517px;
     }
     .snip1577 figcaption {
-        left: -12px;
-        right: -12px;
+        left: 0px;
+        right: 0px;
       }
 }
 
