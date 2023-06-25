@@ -3,8 +3,14 @@
     font-family: Bebas Neue;
 }
 
+
 .card-entradas {
   border: none;
+
+}
+
+.caja-eventos {
+  border-radius: 15px;
 }
 
 .snip1577 {
