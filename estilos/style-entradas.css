@@ -5,6 +5,9 @@
 
 }
 
+.boton-entradas {
+  border-radius: 60px;
+}
 
 .card-entradas {
   border: none;

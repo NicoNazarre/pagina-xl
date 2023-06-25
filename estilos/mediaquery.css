@@ -324,22 +324,11 @@
     .box {
         margin: 0 0px;
     }
-/*     .snip1577 figcaption {
-        padding: 17px 241px;
-      } */
+.snip1577 {
+background: none;
 }
-@media screen and (min-width: 2500px) {
-    .logo-footer {
-        position: absolute;
-        top: -24px;
-        bottom: 0px;
-        right: 0px;
-        left: -951px;
-    }
-    .spotify-png {
-        content: url('../multimedia/banner-y-txt/banner.png');
-    }
 }
+
 
 @media screen and (min-width: 2050px) {
     .box:nth-child(1) {
@@ -397,6 +386,19 @@
 .caja-eventos {
     background: none;
 }
+}
+
+@media screen and (min-width: 2500px) {
+    .logo-footer {
+        position: absolute;
+        top: -24px;
+        bottom: 0px;
+        right: 0px;
+        left: -951px;
+    }
+    .spotify-png {
+        content: url('../multimedia/banner-y-txt/banner.png');
+    }
 }
 
 
