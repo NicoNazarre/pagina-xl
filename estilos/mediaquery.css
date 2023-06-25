@@ -31,9 +31,9 @@
 
         left: 19%;
 }
-/* .snip1577 figcaption {
-    padding: 8px 113px;
-  } */
+.snip1577 figcaption {
+    padding: 4% 33%;
+  }
 }
 @media screen and (min-width: 442px) {
     .iconos-redes a{
@@ -69,7 +69,7 @@
         left: 25%;
     }
     .snip1577 figcaption {
-        padding: 4% 41%;
+        padding: 4% 36%;
       }
 }
 /* @media screen and (min-width: 543px) {
