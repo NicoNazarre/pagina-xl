@@ -113,6 +113,11 @@
         margin-left: 0;
         margin-right: 0;
         }
+        .snip1577 figcaption {
+            padding: 5px 91px;
+            left: -10px;
+            right: -10px;
+          }
 } 
 
 
@@ -168,6 +173,28 @@
     }
 }
 
+@media screen and (min-width: 892px) {
+.snip1577 figcaption {
+    padding: 17px 110px;
+    left: -10px;
+    right: -10px;
+  }
+}
+@media screen and (min-width: 1006px) {
+.snip1577 figcaption {
+    padding: 17px 129px;
+    left: -10px;
+    right: -10px;
+  }
+}
+@media screen and (min-width: 1130px) {
+.snip1577 figcaption {
+    padding: 17px 155px;
+    left: 0px;
+    right: 0px;
+  }
+}
+
 @media screen and (min-width: 1200px) {
     .png-proximos-eventos {
         padding-right: 239px;
@@ -197,6 +224,11 @@
         right: 0px;
         left: -517px;
     }
+    .snip1577 figcaption {
+        padding: 17px 182px;
+        left: 0px;
+        right: 0px;
+      }
 }
 
 @media screen and (min-width: 1511px) {
@@ -211,6 +243,11 @@
         .png-proximos-eventos {
             padding-right: 320px;
             padding-left: 320px;
+          }
+          .snip1577 figcaption {
+            padding: 17px 201px;
+            left: 0px;
+            right: 0px;
           }
  
 }
@@ -240,6 +277,11 @@
         right: 0px;
         left: -603px;
     }
+    .snip1577 figcaption {
+        padding: 17px 222px;
+        left: 0px;
+        right: 0px;
+      }
 }
 @media screen and (min-width: 1650px) {
     .container-boton-spotify {
@@ -285,6 +327,9 @@
     .box {
         margin: 0 0px;
     }
+    .snip1577 figcaption {
+        padding: 17px 241px;
+      }
 }
 @media screen and (min-width: 2500px) {
     .logo-footer {
