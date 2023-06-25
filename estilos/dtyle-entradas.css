@@ -3,13 +3,12 @@
     font-family: Bebas Neue;
 }
 
-/* .caja-eventos {
-
-  border-radius: 20px;
-} */
+.card-entradas {
+  border: none;
+}
 
 .snip1577 {
-    font-family: 'Montserrat', Arial, sans-serif;
+  font-family: Bebas Neue;
     position: relative;
 /*     display: inline-block; */
     display: flex;
@@ -22,7 +21,7 @@
 /*     text-align: left; */
 /*     font-size: 16px; */
     background: #000;
-    border-radius: 20px;
+/*     border-radius: 20px; */
   }
   
   .snip1577 *,
