@@ -65,8 +65,13 @@
 
 
 
-    .caja-evento {
-        margin-left: 6.5%;
-        margin-right: 6.5%;
-        }
+.caja-evento {
+  margin-left: 6.5%;
+  margin-right: 6.5%;
+  }
+
+  #proximos-eventos {
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
 
