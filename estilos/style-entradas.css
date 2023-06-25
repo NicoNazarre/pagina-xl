@@ -71,11 +71,17 @@
   
 
 
-  .snip1577 figcaption {
+/*   .snip1577 figcaption {
     position: absolute;
     left: 0;
     bottom: 0;
     padding: 8px 69px;
+  } */
+  .snip1577 figcaption {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 4% 32%;
   }
   
   .snip1577 h3,
