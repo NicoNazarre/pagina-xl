@@ -321,6 +321,12 @@
 }
 }
 
+@media screen and (min-width: 2050px) {
+.caja-eventos {
+    background: none;
+}
+}
+
 
 
 
