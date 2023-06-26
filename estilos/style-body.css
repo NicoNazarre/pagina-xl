@@ -29,6 +29,12 @@
   color: #FFFFFF !important;
 }
 
+.navbar-nav a:hover {
+  color: #49dcdc !important;
+  transition: 0.8s !important;
+  cursor: pointer !important;
+}
+
 .video-container {
   width: 100%;
   overflow: hidden;
