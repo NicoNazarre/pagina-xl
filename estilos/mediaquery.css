@@ -197,6 +197,10 @@
         padding-right: 239px;
         padding-left: 239px;
       }
+      .snip1577 figcaption {
+        left: -12px;
+        right: -12px;
+      }
     }
 
 @media screen and (min-width: 1300px) {   
@@ -211,6 +215,10 @@
         right: 0px;
         left: -487px;
     }
+    .snip1577 figcaption {
+        left: 1px;
+        right: 1px;
+      }
 }
 
 @media screen and (min-width: 1395px) {
@@ -222,8 +230,8 @@
         left: -517px;
     }
     .snip1577 figcaption {
-        left: 0px;
-        right: 0px;
+        left: 2px;
+        right: 2px;
       }
 }
 
@@ -240,11 +248,15 @@
             padding-right: 320px;
             padding-left: 320px;
           }
+
+          .snip1577 figcaption {
+            left: 6px;
+            right: 6px;
 /*           .snip1577 figcaption {
             padding: 17px 201px;
             left: 0px;
-            right: 0px;
-          } */
+            right: 0px;*/
+          } 
  
 }
 
@@ -273,11 +285,11 @@
         right: 0px;
         left: -603px;
     }
-/*     .snip1577 figcaption {
-        padding: 17px 222px;
-        left: 0px;
-        right: 0px;
-      } */
+    .snip1577 figcaption {
+
+        left: 13px;
+        right: 13px;
+      }
 }
 @media screen and (min-width: 1650px) {
     .container-boton-spotify {
@@ -310,7 +322,12 @@
             margin-right: 20%;
             margin-left: 20%;
         }
-}
+
+        .snip1577 figcaption {
+            left: 16px;
+            right: 16px;
+        }
+    }
 
 @media screen and (min-width: 1807px) {
     .logo-footer {
@@ -323,8 +340,10 @@
     .box {
         margin: 0 0px;
     }
-.snip1577 {
-background: none;
+    .snip1577 {
+        background: none;
+        left: 19px;
+        right: 19px;
 }
 }
 
@@ -399,9 +418,6 @@ background: none;
         content: url('../multimedia/banner-y-txt/banner.png');
     }
 }
-
-
-
 
 
 
