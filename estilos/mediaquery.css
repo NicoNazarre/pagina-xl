@@ -1,24 +1,16 @@
-
  @media screen and (min-width: 330px) {
     .iconos-redes a {
         margin-left: 10px;
         margin-right: 10px;
 }
-} 
-
+}
 @media screen and (min-width: 338px) {
     .container-boton-spotify {
-
         left: 14%;
 }
-/* .snip1577 figcaption {
-    padding: 8px 93px;
-  } */
 }
-
 @media screen and (min-width: 360px) {
-    .container-boton-spotify {
-        
+    .container-boton-spotify {        
         left: 15%;
     }
     .caja-evento {
@@ -28,7 +20,6 @@
 }
 @media screen and (min-width: 400px) {
     .container-boton-spotify {
-
         left: 19%;
 }
 .snip1577 figcaption {
@@ -37,18 +28,12 @@
 }
 @media screen and (min-width: 442px) {
     .iconos-redes a{
-
         margin-left: 20px;
         margin-right: 20px;
-    }
-    
+    }    
     .container-boton-spotify {
-
         left: 20%;
     }
-/*     .snip1577 figcaption {
-        padding: 8px 132px;
-      } */
 }
 @media screen and (min-width: 460px) {
     .container-boton-spotify {
@@ -58,33 +43,20 @@
     .logo-fiesta-de-otro-planeta {
         content: url('../multimedia/Logos/fiesta\ de\ otro\ planeta\ \(3\)\ 270.png');
     }
-    .box {
- 
+    .box { 
         margin: 0 -23px;
      }
 }
 @media screen and (min-width: 500px) {
     .container-boton-spotify {
-
         left: 25%;
     }
     .snip1577 figcaption {
         padding: 4% 37%;
       }
 }
-/* @media screen and (min-width: 543px) {
-    .snip1577 figcaption {
-        padding: 8px 175px;
-      }
-}
-@media screen and (min-width: 599px) {
-    .snip1577 figcaption {
-        padding: 8px 194px;
-      }
-} */
 @media screen and (min-width: 630px) {
     .container-boton-spotify {
-
         left: 30%;
     }
     .caja-evento {
@@ -92,23 +64,12 @@
         margin-right: 10.5%;
         }
 }
-/* @media screen and (min-width: 676px) {
-    .snip1577 figcaption {
-        padding: 22px 213px;
-      }
-} */
 @media screen and (min-width: 718px) {
     .container-boton-spotify {
-
         left: 33%;
     }
-/*     .snip1577 figcaption {
-        padding: 22px 230px;
-      } */
 }
-
  @media screen and (min-width: 768px) {
-
     .caja-evento {
         margin-left: 0;
         margin-right: 0;
@@ -118,15 +79,10 @@
             right: -23px;
           }
 } 
-
-
-
 @media screen and (min-width: 850px) {
-
     .cards__container {
         height: 21rem;
     }
-
     .box {
         width: 569.3023071289062px;
         height: 322.1052551269531px;
@@ -168,17 +124,8 @@
     }
     .logo-footer {
         content: url('../multimedia/Logos/XL_logo_alien140x85.png');
-
     }
 }
-
-/* @media screen and (min-width: 892px) {
-.snip1577 figcaption {
-    padding: 17px 110px;
-    left: -10px;
-    right: -10px;
-  }
-} */
 @media screen and (min-width: 1006px) {
 .snip1577 figcaption {
     left: -26px;
@@ -191,7 +138,6 @@
         right: -12px;
       }
 }
-
 @media screen and (min-width: 1200px) {
     .png-proximos-eventos {
         padding-right: 239px;
@@ -202,9 +148,7 @@
         right: -12px;
       }
     }
-
-@media screen and (min-width: 1300px) {   
-
+@media screen and (min-width: 1300px) {
     .icono-footer {
         position: relative;
         }
@@ -220,7 +164,6 @@
         right: 1px;
       }
 }
-
 @media screen and (min-width: 1395px) {
     .logo-footer {
         position: absolute;
@@ -234,7 +177,6 @@
         right: 2px;
       }
 }
-
 @media screen and (min-width: 1511px) {
     .logo-footer {
         position: absolute;
@@ -242,28 +184,16 @@
         bottom: 0px;
         right: 0px;
         left: -563px;
+    }   
+    .png-proximos-eventos {
+        padding-right: 320px;
+        padding-left: 320px;
+        }
+    .snip1577 figcaption {
+        left: 6px;
+        right: 6px;
     }
-   
-        .png-proximos-eventos {
-            padding-right: 320px;
-            padding-left: 320px;
-          }
-
-          .snip1577 figcaption {
-            left: 6px;
-            right: 6px;
-/*           .snip1577 figcaption {
-            padding: 17px 201px;
-            left: 0px;
-            right: 0px;*/
-          } 
- 
 }
-
-
-
-
-
 @media screen and (min-width: 1520px) {
     .spotify-png {
         content: url('../multimedia/banner-y-txt/banner1871.png');
@@ -303,32 +233,28 @@
         .box {
             margin: 0 -10px;
         }
-
-            .png-proximos-eventos {
-                padding-right: 357px;
-                padding-left: 357px;
-              }
-
+        .png-proximos-eventos {
+            padding-right: 357px;
+            padding-left: 357px;
+        }
 }
 @media screen and (min-width: 1726px) {
     .container-boton-spotify {
         left: 25%;
         }
-        .seccion-carrusel {
-            margin-right: 20%;
-            margin-left: 20%;
-        }
-        .seccion-spotify {
-            margin-right: 20%;
-            margin-left: 20%;
-        }
-
-        .snip1577 figcaption {
-            left: 16px;
-            right: 16px;
-        }
+    .seccion-carrusel {
+        margin-right: 20%;
+        margin-left: 20%;
     }
-
+    .seccion-spotify {
+        margin-right: 20%;
+        margin-left: 20%;
+    }
+    .snip1577 figcaption {
+        left: 16px;
+        right: 16px;
+    }
+}
 @media screen and (min-width: 1807px) {
     .logo-footer {
         position: absolute;
@@ -344,68 +270,49 @@
         background: none;
         left: 19px;
         right: 19px;
+    }
 }
-}
-
-
 @media screen and (min-width: 2050px) {
     .box:nth-child(1) {
-        transform: scale(0.9);
-    
-    }
-    
+        transform: scale(0.9);    
+    }    
     .box:nth-child(2) {
-        transform: scale(1.1);
-    
-    }
-    
+        transform: scale(1.1);    
+    }    
     .box:nth-child(3) {
-        transform: scale(0.9);
-    
-    }
-    
+        transform: scale(0.9);    
+    }    
      .box:nth-child(4) {
-        transform: scale(0.9);  
-     
-    }
-    
+        transform: scale(0.9);      
+    }    
     .box:nth-child(5) {
-        transform: scale(0.9);
-    
-    }
-    
+        transform: scale(0.9);    
+    }    
     .box:nth-child(6) {
-        transform: scale(0.9);
-    
-    }
-    
+        transform: scale(0.9);    
+    }    
     .box:nth-child(7) {
-        transform: scale(0.9);
-    
+        transform: scale(0.9);    
     }
-
     .box {
         margin: 0 45px;
     }
 }
-
 @media screen and (min-width: 2050px) {
     .seccion-carrusel {
     margin-right: 28%;
     margin-left: 28%;
+    }
+    .seccion-spotify {
+        margin-right: 28%;
+        margin-left: 28%;
+    }
 }
-.seccion-spotify {
-    margin-right: 28%;
-    margin-left: 28%;
-}
-}
-
 @media screen and (min-width: 2050px) {
 .caja-eventos {
     background: none;
+    }
 }
-}
-
 @media screen and (min-width: 2500px) {
     .logo-footer {
         position: absolute;

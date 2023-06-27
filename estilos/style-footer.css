@@ -2,13 +2,11 @@
     background: linear-gradient(180deg, rgba(15, 11, 60, 0.23) 0%, rgba(16, 15, 31, 0.88) 86.05%);
 width: 100%;
 }
-
 .container__footer {
 display: flex;
 flex-direction: column;
 align-items: center;
 }
-
 .nota-footer {
     margin-top: 12px;
     font-family: 'Open Sans';
@@ -19,27 +17,22 @@ align-items: center;
     color: #FFFFFF;
     z-index: 100;
 }
-
 .iconos-redes a{
     margin-left: 7px;
     margin-right: 7px;
 }
-
 .iconos-footer {    
     margin-top: 10px;
     margin-bottom: 26px;
 } 
-
 .iconos-footer {
     color: #FFFFFF;
 }
-
 .iconos-redes a i:hover {
     color: #49dcdc !important;
     transition: 0.8s !important;
     cursor: pointer !important;
 }
-
 .logo-footer {
     margin-bottom: 20px;
 }

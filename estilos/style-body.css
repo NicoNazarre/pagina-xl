@@ -4,12 +4,9 @@
     margin-right: auto;
     max-width: 100%;
 }
-
-
 .menu {
   background-color: #0D0D0D;
 }
-
 .navbar-nav .nav-link.active {
   color: #FFFFFF;
   font-family: Bebas Neue;
@@ -19,38 +16,30 @@
   letter-spacing: 0.1em;
   text-align: left , 'Jura', sans-serif;
 }
-
 .navbar-nav a {
   margin-right: 10px;
   margin-left: 10px;
 }
-
 #menu-hamburguesa {
   color: #FFFFFF !important;
 }
-
 .navbar-nav a:hover {
   color: #49dcdc !important;
   transition: 0.8s !important;
   cursor: pointer !important;
 }
-
 .video-container {
   width: 100%;
   overflow: hidden;
   margin-left: auto;
   margin-right: auto;
 }
-
-
-
 .estilo-body {
     background-image: url(../multimedia/fondos/bg_1920.jpg);
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover;     
 }
-
 .btn-wsp {
     position: fixed;
     width: 55px;
@@ -61,21 +50,16 @@
     text-align: center;
     z-index: 150;
 }
-
 .video-container {
     width: 100%;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
-  }
-
-
-
+}
 .caja-evento {
   margin-left: 6.5%;
   margin-right: 6.5%;
   }
-
   #proximos-eventos {
     margin-top: 80px;
     margin-bottom: 50px;
