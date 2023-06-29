@@ -87,6 +87,8 @@
         width: 569.3023071289062px;
         height: 322.1052551269531px;
     }
+
+/* FOTOS "CARRUSEL" (EDITAR TAMAÑO A 300PX X 170PX) */
     .foto-carrusel-1 {
         content: url('../multimedia/img_carrusel/img_01.jpg');
     }
@@ -108,6 +110,8 @@
     .foto-carrusel-7 {
         content: url('../multimedia/img_carrusel/img_07.jpg');
     }
+    /* FOTOS "CARRUSEL" (EDITAR TAMAÑO A 300PX X 170PX) */
+    
     .spotify-png {
         content: url('../multimedia/banner-y-txt/banner1152x285.png');
     }
