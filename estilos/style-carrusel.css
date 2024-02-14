@@ -86,7 +86,7 @@
     border-radius: 10px;  
 }
  .box:nth-child(4) img {
-    filter: grayscale(100%) opacity(25%);
+/*     filter: grayscale(100%) opacity(25%); */
     border-radius: 10px;  
 }
 .box:nth-child(5) img {
@@ -112,7 +112,6 @@
     transform: scale(0.8);
 }
  .box:nth-child(4) {
-    transform: scale(0.8);   
 }
 .box:nth-child(5) {
     transform: scale(0.8);
@@ -126,14 +125,14 @@
 .box--hide {
     display: none;
 }
-.move-to-position1-from-left {
+.move-to-position3-from-left {
+    animation: moveToP0Left 0.9s ease-in-out;
+}
+.move-to-position4-from-left{
+    animation: moveToP1Left 0.9s ease-in-out;
+}
+.move-to-position5-from-left{
     animation: moveToP2Left 0.9s ease-in-out;
-}
-.move-to-position2-from-left{
-    animation: moveToP1Left 0.9s ease-in-out;
-}
-.move-to-position3-from-left{
-    animation: moveToP1Left 0.9s ease-in-out;
 }
 @keyframes moveOutLeft {
     0% {
